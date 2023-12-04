@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahirdeveloper
-  📫 Expert in core php and Laravel
-- 👀 I’m interested in web development- 🌱 I’m currently working in react js
+  📫 Expert in Laravel php and Api integration
+- 👀 I’m interested in web development- 🌱 I’m currently working at Binary Bridge Technology Islamabad  
 - 💞️ I’m looking to collaborate on web projects
 - 
 
