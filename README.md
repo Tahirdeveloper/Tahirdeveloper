@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahirdeveloper
-  📫 Expert in PHP/Laravel, Javascript & Jquery, Api integration and wordpress.
-- 👀 I’m interested in web development- 🌱 I’m currently working at Binary Bridge Technology Islamabad  
+  📫 Expert in PHP/Laravel, Javascript & Jquery, Api integration and wordpress with more than 2 years of experience.
+- 👀 Web development is my passion.
 - 💞️ I’m looking to collaborate on web projects
 - 
 
