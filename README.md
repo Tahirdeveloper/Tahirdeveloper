@@ -3,7 +3,7 @@
 
  <p align="center">
    <strong>Passionate Web Developer | PHP, Laravel, & JavaScript Enthusiast</strong><br>
-   I specialize in building robust, scalable web applications and intuitive user interfaces. With over 4 years of professional experience, I enjoy solving complex problems, providing digital busines[...] 
+   I specialize in building robust, scalable web applications and intuitive user interfaces. With over 4 years of professional experience, I enjoy solving complex problems, providing digital business solutions and solving complex problems.
  </p>
 
  <p align="center">
@@ -17,8 +17,8 @@
  ### 👨‍💻 About Me
 
  - 🏢 I have expertise in **PHP/Laravel, JavaScript, jQuery, React, Bootstrap, Tailwind CSS, and SaaS development**.
- - 🔭 I’m currently working on full-stack solutions like **CRM, ERP, LMS, POS and E-commerce systems**.
- - 🌱 I’m always learning and exploring new technologies to enhance my skill set.
+ - 🔭 I'm currently working on full-stack solutions like **CRM, ERP, LMS, POS and E-commerce systems**.
+ - 🌱 I'm always learning and exploring new technologies to enhance my skill set.
  - 💬 Ask me about **PHP, Laravel, APIs, Backend Architecture, and Frontend Integrations**.
  - ⚡ Fun fact: I love building systems that providing business solutions and solving complex problems.
 
@@ -90,6 +90,7 @@
 
  <p>
    <a href="https://www.linkedin.com/in/tahir-shah-dev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+   <a href="https://wa.me/923171427465"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" /></a>
    <a href="mailto:tahirshah809860@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
  </p>
  
